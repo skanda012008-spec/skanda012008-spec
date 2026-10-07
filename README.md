@@ -1,16 +1,62 @@
-## Hi there 👋
+                         ⚡ skanda012208-spec
 
-<!--
-**skanda012008-spec/skanda012008-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              BUILD.  BREAK.  REBUILD.
 
-Here are some ideas to get you started:
+👋 Hey, I'm Skanda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Engineering Student
+💻 C | Python | Git
+🧠 Learning by building, breaking, and rebuilding things
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ CURRENTLY IN THE LAB
+
+▸ C programming
+▸ Problem solving
+▸ Python fundamentals
+▸ Git & GitHub
+▸ Exploring innovation & technology
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧪 EXPERIMENT LOG
+
+01 → C Foundations
+02 → Python Experiments
+03 → Mini Projects
+04 → Something I haven't built yet...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 PROGRESS
+
+C        ███████░░░  Learning
+Python   █████░░░░░  Learning
+GitHub   ██████░░░░  Building
+Projects ██░░░░░░░░  Starting
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 THE MISSION
+
+Don't just learn technology.
+Understand it.
+Build with it.
+Improve it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔭 NEXT EXPERIMENT
+
+→ Build something useful
+→ Learn beyond the classroom
+→ Turn ideas into projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 FIND ME
+
+GitHub  •  LinkedIn  •  Email
+
+⚡ "Still building."
